@@ -1,8 +1,4 @@
-## `dependabot-composer`
 
-PHP (Composer) support for [`dependabot-core`][core-repo].
-
-### Running locally
 
 1. Start a development shell
 
@@ -15,4 +11,4 @@ PHP (Composer) support for [`dependabot-core`][core-repo].
    [dependabot-core-dev] ~ $ cd composer && rspec
    ```
 
-[core-repo]: https://github.com/dependabot/dependabot-core
+https://github.com/dependabot/dependabot-core
